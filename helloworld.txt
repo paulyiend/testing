@@ -1,3 +1,4 @@
 <?php 
 echo "<br>Hello world ".$_REQUEST['name']; 
+echo "<br>My name is Paul";
 ?>
