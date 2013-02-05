@@ -10,3 +10,5 @@ $name= (isset($_REQUEST['name'])) ? $_REQUEST['name'] : 'Paul'; ?>
 	}
 </style>
 <div id="testing"><?php echo "<br/>Hello World my name is : ".$name;?></div>
+
+<p>Can you tell what is it yet?</p>
